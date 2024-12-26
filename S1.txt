@@ -9,3 +9,10 @@ w=32
 y=56
 z=w+z
 
+// story 121 // to expain the concept of git stash adding below code
+
+x=13
+y=54
+z=x+y
+
+
