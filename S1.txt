@@ -2,4 +2,10 @@ a=12
 b=3
 c=a+b
 
+//working on story 131
+
+
+w=32
+y=56
+z=w+z
 
